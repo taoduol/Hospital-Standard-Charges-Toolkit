@@ -1,0 +1,21 @@
+{
+  "hospitals": [
+    {
+      "name": "Yale New Haven Hospital",
+      "short_name": "yale-new-haven",
+      "billing_page": "https://www.ynhh.org/patients-visitors/billing-insurance/Pricing",
+      "file_url": "https://www.ynhh.org/-/media/Files/YNHHS/sc/06-0646652-Yale_New_Haven_Hospital_Standard_Charges011025-1.ashx",
+      "last_verified": "2024-02-10",
+      "notes": "CSV file - verify link still works before downloading"
+    },
+    {
+      "name": "Example Hospital",
+      "short_name": "example-hospital",
+      "billing_page": "https://example.com/billing/pricing",
+      "file_url": "https://example.com/standard-charges.json",
+      "last_verified": "2024-02-10",
+      "notes": "Add your hospital info here"
+    }
+  ]
+}
+
